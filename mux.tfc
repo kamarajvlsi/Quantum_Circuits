@@ -1,0 +1,28 @@
+.v a,b,c,d,f,g,h,j,k,l,n,o,p
+.i a,b,c,d,f,g,h,j,k,l,n,o,p
+.o a,b,c,d,f,g,h,j,k,l,n,o,p
+BEGIN
+t2 d,a
+t2 c,b
+t3 a,b,c
+t2 d,b
+t2 c,d
+
+t2 h,a
+t2 g,f
+t3 a,f,g
+t2 h,f
+t2 g,h
+
+t2 l,a
+t2 k,j
+t3 a,j,k
+t2 l,j
+t2 k,l
+
+t2 p,a
+t2 o,n
+t3 a,n,o
+t2 p,n
+t2 o,p
+END

@@ -1,0 +1,23 @@
+.v a,b,c,d,e,f,g,h,i
+.i a,b,c,d,e,f,g,h,i
+.o a,b,c,d,e,f,g,h,i
+BEGIN
+t2 c,b
+t3 a,b,c
+t1 a
+t2 a,c
+t1 a
+t2 c,b
+
+t2 g,d
+t2 f,e
+t3 d,e,f
+t2 g,e
+t2 f,g
+
+t2 i,h
+t2 f,c
+t3 h,c,f
+t2 i,c
+t2 f,i
+END

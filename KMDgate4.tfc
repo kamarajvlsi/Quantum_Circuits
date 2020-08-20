@@ -1,0 +1,13 @@
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+t3 b,c,e
+t3 b,c,d
+t2 b,e
+t2 b,c
+t3 a,c,b
+t3 a,c,d
+t2 a,c
+t2 a,b
+END

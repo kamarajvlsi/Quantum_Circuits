@@ -1,0 +1,6 @@
+.v a,b,c
+.i a,b,c
+.o a,b,c
+BEGIN
+f3 a,b,c
+END

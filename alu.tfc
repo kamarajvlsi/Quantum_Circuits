@@ -1,0 +1,40 @@
+.v a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q
+.i a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q
+.o a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q
+BEGIN
+t2 b,c
+t3 a,c,b
+t2 c,b
+t2 a,b
+t2 b,c
+
+t2 c,d
+t2 e,b
+t3 d,b,e
+t2 c,b
+t2 e,c
+
+t2 g,h
+t3 f,h,g
+t2 h,g
+t2 f,g
+t2 g,h
+
+t2 h,i
+t2 j,g
+t3 i,g,j
+t2 h,g
+t2 j,h
+
+t2 h,g
+t3 e,g,h
+t2 j,g
+t2 j,i
+t3 m,j,i
+t3 j,m,n
+t2 j,m
+t3 e,m,n
+t2 e,m
+
+t2 j,e
+END

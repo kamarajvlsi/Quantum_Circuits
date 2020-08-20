@@ -1,0 +1,49 @@
+.v a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u
+.i a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u
+.o a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u
+BEGIN
+t3 b,c,e
+t3 b,c,d
+t2 b,c
+t2 b,c
+t3 a,c,b
+t3 a,c,d
+t2 a,c
+t2 a,b
+
+t3 g,d,i
+t3 g,d,h
+t2 g,i
+t2 g,d
+t3 f,d,g
+t3 f,d,h
+t2 f,d
+t2 f,g
+
+t3 k,h,m
+t3 k,h,l
+t2 k,m
+t2 k,h
+t3 j,h,k
+t3 j,h,l
+t2 j,h
+t2 j,k
+
+t3 o,l,q
+t3 o,l,p
+t2 o,q
+t2 o,l
+t3 n,l,o
+t3 n,l,p
+t2 n,l
+t2 n,o
+
+t3 s,p,u
+t3 s,p,t
+t2 s,u
+t2 s,p
+t3 r,p,s
+t3 r,p,t
+t2 r,p
+t2 r,s
+END

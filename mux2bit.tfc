@@ -1,0 +1,17 @@
+.v a,b,c,d,f,g,h
+.i a,b,c,d,f,g,h
+.o a,b,c,d,f,g,h
+BEGIN
+t2 d,a
+t2 c,b
+t3 a,b,c
+t2 d,b
+t2 c,d
+
+t2 h,a
+t2 g,f
+t3 a,f,g
+t2 h,f
+t2 g,h
+
+END

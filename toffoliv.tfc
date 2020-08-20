@@ -1,0 +1,29 @@
+.v a,b,c,d,e
+.i a,b,c,d,e
+.o a,b,c,d,e
+BEGIN
+v c,e
+v b,e
+t2 b,c
+v+ c,e
+t2 b,c
+v c,d
+v b,d
+t2 b,c
+v+ c,d
+t2 b,c
+t2 b,c
+t2 b,e
+v c,b
+v a,b
+t2 a,c
+v+ c,b
+t2 a,c
+v c,d
+v a,d
+t2 a,c
+v+ c,d
+t2 a,c
+t2 a,c
+t2 a,b
+END
